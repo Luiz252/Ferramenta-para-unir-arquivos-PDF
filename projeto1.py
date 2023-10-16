@@ -11,4 +11,4 @@ for arquivo in lista_arquivos:
         merger.append(f"arquivos/{arquivo}")
 
 
-merger.write("PDF TOTAL.pdf")
+merger.write("Pdf Final.pdf")
